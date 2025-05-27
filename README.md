@@ -73,6 +73,16 @@ A smaller **illustration set** is supplied to show examples of healthy vs. stres
 
 You’ll build a mask that highlights these stressed (non-green) regions.
 
+![basil](/demo_images/basil.png)
+![cucumber](/demo_images/cucumber.png)
+![strawberry](/demo_images/strawberry.png)
+![overall healthy basil](/demo_images/overallhealthy\basil.png)
+![overall healthy cucumber](/demo_images/overall\healthy\cucumber.png)
+![overall healthy strawberry](/demo_images/overall\healthy\strawberry.png)
+![overall very stressed strawberry](/demo_images/overall\very\stressed\strawberry.png)
+![overall very_stressed cucumber](/demo_images/overall\very_stressed\cucumber.png)
+
+
 ### ***The following cell shows some examples of stress in the leafs, the images are annotated, put the "demo_images" folder in the workspace before executing the following cell.***
 #### **Note : change "/content" with the path to the "/demo_images" folder**
 
