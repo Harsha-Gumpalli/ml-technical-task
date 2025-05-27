@@ -73,7 +73,7 @@ A smaller **illustration set** is supplied to show examples of healthy vs. stres
 
 You’ll build a mask that highlights these stressed (non-green) regions.
 
-### ***The following cell shows some examples of stress in the leafs, the images are annotated, put the "demo_images" folder in the workspace before execution the following cell.***
+### ***The following cell shows some examples of stress in the leafs, the images are annotated, put the "demo_images" folder in the workspace before executing the following cell.***
 #### **Note : change "/content" with the path to the "/demo_images" folder**
 
 
@@ -120,8 +120,7 @@ plt.show()
 
 ## 3 · Submission checklist
 
-* Push / share into the following github repo with you **Name_EcoblomInterview** as a folder name :
-  * [The github repo link](https://github.com/Ecobloom/ml-technical-task.git)
+* Complete the task in your private fork, then send us the repo link or invite us as a collaborator to your fork to review your solution :
   * `notebook.ipynb` (this file, updated with your work) **or** `solution.py`.
   * 5‑slide PDF.
 * Make sure the notebook runs end‑to‑end on a fresh Colab
