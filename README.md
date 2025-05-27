@@ -1,4 +1,4 @@
-# ml-technical-task - Plant stress detection
+# ml-technical-task 
 
 # 🌿 Plant‑Stress Detection Challenge
 
