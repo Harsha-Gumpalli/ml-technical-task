@@ -73,14 +73,16 @@ A smaller **illustration set** is supplied to show examples of healthy vs. stres
 
 You’ll build a mask that highlights these stressed (non-green) regions.
 
-![basil](/demo_images/basil.png)
-![cucumber](/demo_images/cucumber.png)
-![strawberry](/demo_images/strawberry.png)
-![overall healthy basil](/demo_images/overall%20healthy%20basil.png)
-![overall healthy cucumber](/demo_images/overall%20healthy%20cucumber.png)
-![overall healthy strawberry](/demo_images/overall%20healthy%20strawberry.png)
-![overall very stressed strawberry](/demo_images/overall%20very%20stressed%20strawberry.png)
-![overall very stressed cucumber](/demo_images/overall%20very_stressed%20cucumber.png)
+**Hover over the images to see a quick description of what it is**
+
+![basil](/demo_images/basil.png "basil")
+![cucumber](/demo_images/cucumber.png "cucumber")
+![strawberry](/demo_images/strawberry.png "strawberry")
+![overall healthy basil](/demo_images/overall%20healthy%20basil.png "overall healthy basil")
+![overall healthy cucumber](/demo_images/overall%20healthy%20cucumber.png "overall healthy cucumber")
+![overall healthy strawberry](/demo_images/overall%20healthy%20strawberry.png "overall healthy strawberry")
+![overall very stressed strawberry](/demo_images/overall%20very%20stressed%20strawberry.png "overall very stressed strawberry")
+![overall very stressed cucumber](/demo_images/overall%20very_stressed%20cucumber.png "overall very stressed cucumber")
 
 
 
