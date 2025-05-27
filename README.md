@@ -1,1 +1,1 @@
-# ml-technical-task
+# ml-technical-task - Plant stress detection
