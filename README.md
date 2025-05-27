@@ -55,12 +55,12 @@ A smaller **illustration set** is supplied to show examples of healthy vs. stres
 
 #### What does “stress” look like on a leaf?
 
-| Condition           | Typical colour cues                                         | Visual cue |
-| ------------------- | ----------------------------------------------------------- | ---------- |
-| **Healthy**         | Bright green → pale whitish veins                           | ![ ](…)    |
-| **Early stress**    | Green edge → **yellow-green** centre                        | ![ ](…)    |
-| **Moderate stress** | Edge still green, centre turning **orange / reddish-brown** | ![ ](…)    |
-| **Severe stress**   | Leaf largely **dark-red / brown** or almost black           | ![ ](…)    |
+| Condition           | Typical colour cues                                         | 
+| ------------------- | ----------------------------------------------------------- | 
+| **Healthy**         | Bright green → pale whitish veins                           | 
+| **Early stress**    | Green edge → **yellow-green** centre                        | 
+| **Moderate stress** | Edge still green, centre turning **orange / reddish-brown** | 
+| **Severe stress**   | Leaf largely **dark-red / brown** or almost black           | 
 
 
 
